@@ -1,0 +1,23 @@
+#title {
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    background-color: rgb(229, 253, 229);
+    display: inline;
+
+}
+
+.sub-headers {
+
+    color: grey;
+    display: inline;
+    background-color: rgb(229, 253, 229);
+
+}
+
+.results {
+
+    color: green;
+    background-color: honeydew;
+    display: inline;
+    }
