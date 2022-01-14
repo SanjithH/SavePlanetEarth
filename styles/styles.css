@@ -24,6 +24,6 @@
 
     .body {
 
-        background: url(./Images/Nature_Flower.JPG) no-repeat;
+        background: url(./../Images/Nature_Flower.JPG) no-repeat;
         background-size: cover;
     }
