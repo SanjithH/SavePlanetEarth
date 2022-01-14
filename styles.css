@@ -2,7 +2,7 @@
     color: green;
     font-family: 'Times New Roman', Times, serif;
     text-align: left;
-    background-color: rgb(229, 253, 229);
+    background: rgb(229, 253, 229);
     display: inline;
 
 }
@@ -20,4 +20,10 @@
     color: green;
     background-color: honeydew;
     display: inline;
+    }
+
+    .body {
+
+        background: url(./Images/Nature_Flower.JPG) no-repeat;
+        background-size: cover;
     }
